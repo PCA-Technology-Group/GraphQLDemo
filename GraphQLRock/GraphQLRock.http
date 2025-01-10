@@ -1,0 +1,6 @@
+@GraphQLRock_HostAddress = http://localhost:5099
+
+GET {{GraphQLRock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
